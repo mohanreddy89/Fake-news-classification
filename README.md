@@ -1,1 +1,17 @@
-# Fake-news-classification
+# Fake-news-classification 
+## Abstract : 
+  Fake news has become a prevalent issue in the age of the internet, as they are often used to deceive readers and manipulate public opinion. This has been made easier with the proliferation of various media outlets that do not always verify the accuracy of their content. To fight with this problem, we should perform a project that aims to develop a model for detecting fake news using machine learning techniques and a Text Vectorizer. The project involves using the Term Frequency Inverted Document Frequency (TF-IDF) as a feature extraction technique and the Passive-Aggressive Classifier as the classifier. Our evaluation results demonstrate that this model can accurately distinguish between real and fake news. To successfully execute this advanced Python project, it is essential to understand related concepts such as the TF-IDF Vectorizer and the Passive Aggressive Classifier, which we will cover in the necessary steps and techniques used in the analysis.
+  
+## INTRODUCTION:
+The impact of fake news has significantly increased in recent years, and it is crucial to take steps to prevent it from continuing to spread. The severe consequences of fake news were highlighted in a disturbing incident where a man attacked a pizzeria based on a false news article. This event, along with further analysis, demonstrates that humans are not always effective at identifying fake news, potentially performing no better than chance. This raises the question of whether machines could do a better job in addressing this issue. One potential solution involves using supervised learning, where machines can extract features from the language and content of a source without relying on a fact-checker or knowledge base. This approach could help to mitigate the spread of fake news and its harmful effects. The process of detecting the fake news is very important task now-a-days because of the fake news spread there are many people in the who are suffering and losing money because of the fake news. Now-a-days some network providers are sending a alert message to the consumers that we should not respond for the fake news and message. The rapid spread of fake news across various platforms is a serious concern as it can lead to social conflicts and permanent damage to relationships. There is considerable ongoing research aimed at categorizing and identifying fake news. 
+
+## Problem statement:
+This project aims to investigate whether machine learning models can effectively detect fake news. The objective is to identify the most efficient model for predicting fake news while minimizing memory and storage costs for computation. The issue of "fake news" has emerged as a prevalent problem in recent years.
+
+## Approach:
+Fake news has become a major issue today, spreading rapidly on social media platforms and often causing confusion between real and fake news. Despite efforts by social media websites and governments to combat fake news, studies have shown that many young people are still unable to distinguish between real and fake news. In fact, some fake news stories have even received more views and shares than real news stories. To address this problem, a supervised learning approach can be used to develop a model that can identify fake news sources and assign scores for the level of bias and factuality of the articles.  Fake news often contains sensationalist reporting and may be spread to promote certain political agendas. Such stories may contain false or exaggerated claims and can quickly become viral, leading users into a filter bubble.
+
+
+
+
+
